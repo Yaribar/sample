@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang = "en">
+	<head>
+		<meta charset="UFT-8">
+		<tittle>Font Awesome Demo</tittle>
+		<script src="https://kit.fontawesome.com/c62745b19c.js" crossorigin="anonymous"></script>
+
+	</head>
+	<body>
+		<i class ="fas fa-angry"></i>
+		<i class ="fas fa-angry fa-xs"></i>
+		<i class ="fas fa-angry fa-md"></i>
+		<i class ="fas fa-angry fa-2x"></i>
+
+		<i class ="fas fa-address-card"></i>
+		<a href="http://www.twitter.com" aria-label="Twitter"> <i class="fab fa-twitter fa-5x">
+		</i></a>
+		<hr>
+		<table>
+			<tr>
+				<td>Hello</td>
+				<td>Hello 2</td>
+			</tr>
+		</table>
+
+	</body>
+</html>
+<!--
